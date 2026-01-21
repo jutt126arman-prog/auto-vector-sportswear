@@ -2,3 +2,5 @@ streamlit
 rembg
 pillow
 vtracer
+numpy
+opencv-python-headless
