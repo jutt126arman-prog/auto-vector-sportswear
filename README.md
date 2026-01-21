@@ -1,1 +1,1 @@
-# auto-vector-sportswear
+# sportswear-vector
